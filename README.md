@@ -77,22 +77,30 @@ Check the Features list below.
 ---
 
 ## Screenshots
-![Mod Menu Preview](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/blob/main/assets/Builder/image.png)
+![Mod Menu Preview](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/blob/main/assets/image.png)
+
 
 ---
 
 ## FAQ
 
+
 ### Is this safe to use?
+
 The tool only reads and writes game memory, it does not modify any game files or network traffic. However, use at your own risk.
 
+
 ### Can I customize the hotkey?
+
 Yes. The default toggle key is `[Insert]`, but you can change it in the settings tab.
 
+
 ### How to uninstall?
+
 Simply delete the extracted folder. No registry changes or leftover files.
 
 ---
 
-## Download
-[Download Latest Version](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/releases/download/v1/DSAW-V1.zip)
+
+
+[![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack)
